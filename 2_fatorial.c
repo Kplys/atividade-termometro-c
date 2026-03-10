@@ -17,3 +17,9 @@ int conta = 1;
         contador--;
 
     }
+
+    printf("%d", conta);
+
+    return 0;
+
+}
